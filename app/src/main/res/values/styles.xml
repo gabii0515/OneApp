@@ -1,0 +1,21 @@
+<resources>
+    <!--All below code from https://www.youtube.com/watch?v=5VPEvKhShK8&list=PLKETiCsEsH0qoTj0-ZAO-knfhNPRUJzVx&index=1 (https://github.com/developersamuelakram/MyChatApp)-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheming" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="MenuStyle" parent="ThemeOverlay.AppCompat.Dark">
+
+
+        <item name="android:background">#FFFFFF</item>
+
+    </style>
+
+
+</resources>

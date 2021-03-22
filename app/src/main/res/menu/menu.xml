@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--All below code from https://www.youtube.com/watch?v=5VPEvKhShK8&list=PLKETiCsEsH0qoTj0-ZAO-knfhNPRUJzVx&index=1 (https://github.com/developersamuelakram/MyChatApp)-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+        <item
+            android:id="@+id/logout"
+            android:title="Log Out"
+            app:showAsAction="never"/>
+
+
+
+    </menu>
